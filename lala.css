@@ -25,7 +25,15 @@ i{
 }
 .caja {
     position: sticky;
-    top: 0;       /* distancia desde arriba donde se queda pegado */
+    top: 65px;       /* distancia desde arriba donde se queda pegado */
     background-color: rgb(255, 0, 238);
     padding: 10px; 
 }
+.nav {
+    position: sticky;
+    top: 0;
+    background: rgb(175, 247, 67);
+    padding: 20px;
+    font-size: 20px;
+}
+
