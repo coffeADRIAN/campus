@@ -1,0 +1,31 @@
+body{
+    background-color: #e41818;
+}
+i{
+    color: #ffffff;
+    background-color: blue;
+    font-size: 24px;
+}
+.titulo-personalizado {
+    background-color: violet;
+    color: white;
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+}
+.lili {
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+    height: 60cm;
+    width: 10cm;
+    position: relative;
+    border-top-right-radius: 4 cm;
+    left: 18cm;
+}
+.caja {
+    position: sticky;
+    top: 0;       /* distancia desde arriba donde se queda pegado */
+    background-color: rgb(255, 0, 238);
+    padding: 10px; 
+}
